@@ -78,6 +78,3 @@ const fetchNews =  async (
 }
 
 export default fetchNews
-
-//stepzen import curl http://api.mediastack.com/v1/news?access_key=8a904fe1e4adb4a371f9b807cf1593a8
-// stepzen import http://api.mediastack.com/v1/news?access_key=8a904fe1e4adb4a371f9b807cf1593a8&countries=us%2Cgb&limit=100&offset=0&sort=published_desc
